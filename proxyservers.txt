@@ -1,0 +1,26 @@
+[ProxyList]
+8.219.152.206      27300   Singapore
+184.178.172.26     4145    United States Choctaw
+198.8.94.174        39078   United States
+174.64.199.79       4145    United States
+208.102.51.6        58208   United States Alexandria
+192.252.209.155     14455   Canada Toronto
+184.181.217.210     4145    United States
+65.169.38.73        26592   United States
+184.178.172.25      15291   United States
+67.201.33.10        25283   United States Pico Rivera
+98.162.25.16        4145    United States
+184.178.172.17      4145    United States Choctaw
+68.71.249.153       48606   Canada Etobicoke
+148.72.211.168      45288   Singapore
+72.195.114.169      4145    United States
+192.252.215.5       16137   Canada Toronto
+174.77.111.196      4145    United States
+192.252.220.92      17328   United States Los Angeles
+107.181.161.81      4145    United States
+195.154.184.80      8080    France
+110.235.250.155     1080    Cambodia Phnom Penh
+67.202.50.162       40361   United States Ashburn
+184.181.217.220     4145    United States
+192.252.211.197     14921   Canada Toronto
+142.54.226.214      4145    United States
